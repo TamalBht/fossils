@@ -149,6 +149,10 @@ li .list-item:hover::before{
     transition: transform ease-in-out 350ms;
 }
 @media  (max-width:768px){
+    html{
+         overflow-x: hidden;
+
+    }
     .list-container{
         display: none;
     }
