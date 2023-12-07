@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../project"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "D:/coding files/C programming/PCC-CS-301/graphs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "htdocs"
+	}
+}
