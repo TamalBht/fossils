@@ -499,7 +499,7 @@ li .list-item:hover::before{
         display: block;
         width: 100%;
         text-align: center;
-        font-size: 20vh;
+        font-size: 20vw;
         top: 50px;
     }
     .mem-img img{
