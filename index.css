@@ -499,7 +499,7 @@ li .list-item:hover::before{
         display: block;
         width: 100%;
         text-align: center;
-        font-size: 20vw;
+        font-size: 15vh;
         top: 50px;
     }
     .mem-img img{
@@ -675,7 +675,7 @@ li{
         left: 6vw;
     }
     #disc-head{
-        font-size: 15vh;
+        font-size: 11vh;
     }
     #disco{
         position: relative;
